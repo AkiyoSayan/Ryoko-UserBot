@@ -1,1 +1,0 @@
-""" Initial of Ryoko Userbot """
